@@ -1,4 +1,7 @@
 *.java.hsp
+*.ipr
+*.iws
+*~
 *.sonarj
 *.sw*
 .DS_Store
